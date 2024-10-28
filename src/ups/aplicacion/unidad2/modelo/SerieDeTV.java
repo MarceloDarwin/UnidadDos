@@ -1,7 +1,7 @@
 /**
  * Class SerieDeTV
  */
-package uni1a;
+package ups.aplicacion.unidad2.modelo;
 
 // Subclase SerieDeTV que extiende de ContenidoAudiovisual
 public class SerieDeTV extends ContenidoAudiovisual {
@@ -19,7 +19,7 @@ public class SerieDeTV extends ContenidoAudiovisual {
     public void setTemporadas(int temporadas) {
         this.temporadas = temporadas;
     }
-    
+
     @Override
     public void mostrarDetalles() {
         System.out.println("Detalles de la película:");

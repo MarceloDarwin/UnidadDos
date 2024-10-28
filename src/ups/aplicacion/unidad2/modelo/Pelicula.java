@@ -1,7 +1,7 @@
 /**
  * Class Pelicula
  */
-package uni1a;
+package ups.aplicacion.unidad2.modelo;
 
 // Subclase Pelicula que extiende de ContenidoAudiovisual
 public class Pelicula extends ContenidoAudiovisual {
@@ -19,7 +19,7 @@ public class Pelicula extends ContenidoAudiovisual {
     public void setEstudio(String estudio) {
         this.estudio = estudio;
     }
-    
+
     @Override
     public void mostrarDetalles() {
         System.out.println("Detalles de la película:");

@@ -1,5 +1,8 @@
-package poo;
-import uni1a.*;
+package ups.aplicacion.unidad2.poo;
+import ups.aplicacion.unidad2.modelo.ContenidoAudiovisual;
+import ups.aplicacion.unidad2.modelo.Documental;
+import ups.aplicacion.unidad2.modelo.Pelicula;
+import ups.aplicacion.unidad2.modelo.SerieDeTV;
 
 public class PruebaAudioVisual {
 	public static void main(String[] args) {

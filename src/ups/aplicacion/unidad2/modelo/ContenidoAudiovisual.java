@@ -1,4 +1,4 @@
-package uni1a;
+package ups.aplicacion.unidad2.modelo;
 
 public abstract class ContenidoAudiovisual {
     private static int contar = 0;
@@ -45,6 +45,6 @@ public abstract class ContenidoAudiovisual {
     public int getId() {
         return id;
     }
-    
+
     public abstract void mostrarDetalles();
 }

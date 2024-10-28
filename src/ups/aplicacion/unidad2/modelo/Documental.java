@@ -1,7 +1,7 @@
 /**
  * Class Documental
  */
-package uni1a;
+package ups.aplicacion.unidad2.modelo;
 
 // Subclase Documental que extiende de ContenidoAudiovisual
 public class Documental extends ContenidoAudiovisual {
@@ -19,7 +19,7 @@ public class Documental extends ContenidoAudiovisual {
     public void setTema(String tema) {
         this.tema = tema;
     }
-    
+
     @Override
     public void mostrarDetalles() {
         System.out.println("Detalles de la película:");
