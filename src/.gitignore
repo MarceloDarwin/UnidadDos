@@ -1,0 +1,23 @@
+/bin/
+# Archivos y carpetas de configuraciones de IDEs
+.idea/
+.metadata/
+*.iml
+
+# Archivos generados de Eclipse
+.project
+.classpath
+
+# Directorio de compilación
+/bin/
+/target/
+
+# Archivos específicos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Ignorar archivos de salida y de prueba generados
+*.class

@@ -1,3 +1,4 @@
+git checkout -b main
 # Proyecto UnidadDos: Gestión de Contenidos Audiovisuales
 
 ## Descripción
@@ -36,17 +37,17 @@ Una vez iniciado, verás en la consola un menú de opciones.
 Iniciar el programa: Ejecuta `PruebaAudioVisual` y verás el siguiente menú en consola:
 
 Seleccione una opción:
-1. Añadir documental  
-2. Añadir Película  
-3. Añadir Serie de TV  
-4. Añadir RealityDeTV  
-5. Añadir Noticiero  
-6. Ver Documentales  
-7. Ver Películas  
-8. Ver Series de TV  
-9. Ver Realities de TV  
-10. Ver Noticieros  
-11. Salir  
+1. Añadir documental
+2. Añadir Película
+3. Añadir Serie de TV
+4. Añadir RealityDeTV
+5. Añadir Noticiero
+6. Ver Documentales
+7. Ver Películas
+8. Ver Series de TV
+9. Ver Realities de TV
+10. Ver Noticieros
+11. Salir
 
 
 ### Ejemplo de Visualización
